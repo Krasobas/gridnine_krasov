@@ -88,7 +88,7 @@
               <finalName>grabber</finalName>
               <transformers>
                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                  <mainClass>com/gridnine/testing/App</mainClass>
+                  <mainClass>com/gridnine/testing/Main</mainClass>
                 </transformer>
               </transformers>
             </configuration>
